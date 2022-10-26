@@ -5,7 +5,7 @@
 using namespace std;
 
 void showdetails(){
-    cout<<"Press \n   1)PUT PLASTIC \n\t2)PUT GLASS WASTE \n\t 3)POST A COMPLAINT \n\t4)GIFT AVAILING DETAILS"<<endl;
+    cout<<"Press \n 1)PUT PLASTIC \n2)PUT GLASS WASTE \n3)POST A COMPLAINT \n4)GIFT AVAILING DETAILS"<<endl;
 }
 
 void putplastic(string name){
